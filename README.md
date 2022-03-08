@@ -23,3 +23,13 @@ PROJECT : PASSWORD GENERATOR
 
 # Saving passwords
 
+Passwords will betwenn * * in the txt
+---------------------------------------------
+If you running the code for the first time  ; 
+
+Software will create a txt file : passwords.txt
+---------------------------------------
+For 2.nd run and others ;
+
+Software will continue use same txt file 
+
