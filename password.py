@@ -4,7 +4,6 @@
 
 #Language :English
   
-#Turkey ID(identification) number SIBLING FINDER
 
 #basic and safe password generator
 
