@@ -6,7 +6,6 @@ PROJECT : PASSWORD GENERATOR
 
 -password include : "Upper letters , letters , numbers and  symbols"
 
--
 
 # How to use ?
 
@@ -18,8 +17,9 @@ PROJECT : PASSWORD GENERATOR
 
 # What will I need ?
 
-  Python editor
-  Python module  : random 
+-Python editor
+
+-Python module  : random 
 
 # Saving passwords
 
