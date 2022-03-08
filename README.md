@@ -23,7 +23,7 @@ PROJECT : PASSWORD GENERATOR
 
 # Saving passwords
 
-Passwords will betwenn * * in the txt
+Passwords will betwenn * * in the txt file
 
 *If you running the code for the first time  ; 
 
