@@ -18,8 +18,8 @@ PROJECT : PASSWORD GENERATOR
 
 # What will I need ?
 
--Python editor
--Python module  : random 
+  Python editor
+  Python module  : random 
 
 # Saving passwords
 
